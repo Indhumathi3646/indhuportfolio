@@ -1,5 +1,5 @@
 import React from "react";
-import "./Education.css";
+import "./education.css";
 import { FaGraduationCap } from "react-icons/fa6";
 import { FaCalendar } from "react-icons/fa";
 import { IoLocationSharp } from "react-icons/io5";

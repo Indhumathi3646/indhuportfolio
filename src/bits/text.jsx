@@ -16,7 +16,8 @@ import {
   WebGLRenderTarget
 } from 'three';
 
-import './TextTrail.css';
+// import './textTrail.css';
+import './text.css'
 
 const hexToRgb = hex => {
   let h = hex.replace('#', '');

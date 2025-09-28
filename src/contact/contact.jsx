@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import "./Contact.css";
+import "./contact.css";
 import { FaEnvelope, FaPhone, FaMapMarkerAlt, FaClock, FaGithub } from "react-icons/fa";
 import { useNavigate } from "react-router-dom";
 import emailjs from "@emailjs/browser";

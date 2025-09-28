@@ -1,5 +1,5 @@
 import React from "react";
-import "./Projects.css";
+import "./projects.css";
 import ecommerceImg from "../assets/ecommerce.png";
 import fantaImg from "../assets/fanta.png";
 import gsapImg from "../assets/gsap.png";

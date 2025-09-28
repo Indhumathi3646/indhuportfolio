@@ -1,6 +1,6 @@
 import React from "react";
 import { Line } from "rc-progress";
-import "./Score.css";
+import "./score.css";
 
 export default function Skillscore() {
   const skills = [

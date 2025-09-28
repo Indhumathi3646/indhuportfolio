@@ -1,6 +1,6 @@
 // src/components/Skills.jsx
 import React from "react";
-import "./Skills.css";
+import "./skills.css";
 import { IoCodeSlash } from "react-icons/io5";
 import { FaDatabase } from "react-icons/fa";
 import { SiFramework } from "react-icons/si";

@@ -1,4 +1,4 @@
-import './Nav.css'
+import './nav.css'
 import { FaGithub, FaLinkedin, FaEnvelope } from "react-icons/fa";
 import gsap from "gsap";
 import { useEffect, useRef } from 'react';
