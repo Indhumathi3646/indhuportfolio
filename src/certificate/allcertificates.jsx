@@ -1,5 +1,5 @@
 import React from "react";
-import "./Certificate.css";
+import "./certificate.css";
 import javaImg from "../assets/java.jpeg";
 import pythonImg from "../assets/python.jpeg";
 import htmlImg from "../assets/html.jpeg";
